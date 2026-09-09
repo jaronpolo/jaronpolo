@@ -1,5 +1,6 @@
 # 👋 Hello!
 I'm Jaron Polo, a hobbyist C programmer. I primarily focus on emulation development and reverse engineering. Believe it or not, I'm currently working on three emulators!
+
 When I'm not programming, I like going on walks, gardening, and talking to my cat. (she's getting quite good at Itanium assembly...)
 
 ## My projects
