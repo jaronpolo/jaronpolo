@@ -14,4 +14,4 @@ When I'm not programming, I like going on walks, gardening, and talking to my ca
  
 * **Itanic** - a CPU-Z-like program made specifically for Itanium NT.
 
-### Feel free to check out some of my work, and reach out with any queries!
+Feel free to check out some of my work, and reach out via email with any queries!
