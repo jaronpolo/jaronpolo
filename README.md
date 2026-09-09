@@ -1,6 +1,6 @@
 # 👋 Hello!
-I'm Jaron Polo, a student from New Zealand. In my spare time, I enjoy programming, specifically emulation development and reverse engineering. I'm currently working on three emulators.
-When I'm not doing low-level emudevstuff, I like going on walks, gardening, and talking to my cat.
+I'm Jaron Polo, a hobbyist C programmer. I primarily focus on emulation development and reverse engineering. Believe it or not, I'm currently working on three emulators!
+When I'm not programming, I like going on walks, gardening, and talking to my cat. (she's getting quite good at Itanium assembly...)
 
 ## My projects
 - **Epic!** - my proudest project. A full-system Itanium emulator, optionally a microarchitectural simulator. Targets the HP i2000 workstation, the HP zx2000 workstation, and the HP rx2660 Integrity server - all running real firmware, with full chipset emulation. More models to come!
