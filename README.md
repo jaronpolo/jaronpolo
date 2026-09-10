@@ -8,8 +8,12 @@ When I'm not programming, I like going on walks, gardening, and talking to my ca
 * **[DisARM](https://github.com/jaronpolo/DisARM)** - my Tegra 2 ARMv7 (ARM32) emulator.
 * **[Uncooperative](https://github.com/jaronpolo/Uncooperative)** - my Tandy 2000 emulator.
 
+---
+
 
 * **Itanium MSR Research** – An ongoing effort to reverse-engineer Itanium Model-Specific Registers.
+
+---
 
  
 * **Itanic** - a CPU-Z-like program made specifically for Itanium NT.
