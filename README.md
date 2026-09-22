@@ -5,7 +5,7 @@ When I'm not programming, I like going on walks, gardening, and talking to my ca
 
 ## My projects
 ### Emulators
-* **[Epic!](https://github.com/epicemulator)** - my proudest project. A full-system Itanium emulator, optionally a microarchitectural simulator. Targets the HP i2000 workstation, the HP zx2000 workstation, and the HP rx2660 Integrity server - all running real firmware, with full chipset emulation and a pretty fast dynamic recompiler. More models to come!
+* **[Epic!](https://github.com/epicemulator)** - my proudest project. A full-system Itanium emulator, optionally a microarchitectural simulator. Targets the HP i2000 workstation, the HP zx2000 workstation, and the HP rx2660 Integrity server (more models to come!) - all running real firmware, with full chipset emulation and a pretty fast dynamic recompiler. 
 * **[DisARM](https://github.com/jaronpolo/DisARM)** - my Tegra 2 ARMv7 (ARM32) emulator.
 * **[Uncooperative](https://github.com/jaronpolo/Uncooperative)** - my Tandy 2000 emulator.
 
