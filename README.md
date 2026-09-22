@@ -17,6 +17,6 @@ When I'm not programming, I like going on walks, gardening, and talking to my ca
 - [Itanium PAL collection](https://github.com/TheBrokenPipe/itanium-pals) - a museum of Itanium Processor Abstraction Layer (PAL) blobs, in collaboration with [TheBrokenPipe](https://github.com/TheBrokenPipe).
 
 ### Upcoming
-* **Revenant** - a x86(-64) emulator. Models a variety of machines ranging from the original 1982 IBM XT 5150 to the Dell Dimension 8250 (with experimental Radeon 9700 emulation --> Longhorn DCE!), plus more.
+* **Revenant** - a x86(-64) emulator. Models a variety of machines ranging from the original 1982 IBM XT 5150 to the Dell Dimension 8250 (<u>with experimental Radeon 9700 emulation --> Longhorn DCE!</u>), plus more.
 
 Feel free to check out some of my work, and reach out via email with any queries!
