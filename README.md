@@ -8,7 +8,7 @@ When I'm not programming, I like going on walks, gardening, and talking to my ca
 * **[Epic!](https://github.com/epicemulator)** - my proudest project. A full-system Itanium emulator, optionally a microarchitectural simulator. Targets the HP i2000 workstation, the HP zx2000 workstation, and the HP rx2660 Integrity server (more models to come!) - all running real firmware, with full chipset emulation and a pretty fast dynamic recompiler. 
 * **[DisARM](https://github.com/jaronpolo/DisARM)** - my Tegra 2 ARMv7 (ARM32) emulator.
 * **[Uncooperative](https://github.com/jaronpolo/Uncooperative)** - my Tandy 2000 emulator.
-* * **Revenant** - a x86(-64) emulator. Models a variety of machines ranging from the original 1982 IBM XT 5150 to the Dell Dimension 8250 (<u>with experimental Radeon 9700 emulation --> Longhorn DCE!</u>), plus more.
+* **Revenant** - a x86(-64) emulator. Models a variety of machines ranging from the original 1982 IBM XT 5150 to the Dell Dimension 8250 (<u>with experimental Radeon 9700 emulation --> Longhorn DCE!</u>), plus more.
 
 ### Miscellaneous
 * **Itanium MSR Research** – An ongoing effort to reverse-engineer Itanium Model-Specific Registers.
