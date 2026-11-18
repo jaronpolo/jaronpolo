@@ -12,7 +12,7 @@ When I'm not programming, I like going on walks, gardening, and talking to my ca
 
 ### Miscellaneous
 * **Itanium MSR Research** – An ongoing effort to reverse-engineer Itanium Model-Specific Registers.
-* 
+  
 ### Collaborations
 - [Itanium PAL collection](https://github.com/TheBrokenPipe/itanium-pals) - a museum of Itanium Processor Abstraction Layer (PAL) blobs, in collaboration with [TheBrokenPipe](https://github.com/TheBrokenPipe).
 
